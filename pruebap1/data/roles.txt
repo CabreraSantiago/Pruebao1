@@ -1,0 +1,8 @@
+Pregunta 1
+ 
+Número de registros de cada rol del gen:
+21747
+Especie y conteo más alto:
+  11604 Oncogene
+Especie y conteo más bajo:
+   2799 Driver
